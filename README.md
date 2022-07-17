@@ -20,9 +20,9 @@ DetoxifAI uses the [YoloV5](https://github.com/ultralytics/yolov5) computer visi
 
 -   Jinxuan: Professor
 -   Chase: Instrucor
--   Toryn: Frontend Developer (me!)
+-   Toryn: Frontend Developer
 -   Michael: Backend Developer
--   Arhant: Machine Learning Engineer
+-   Arhant: Machine Learning Engineer(Me!)
 -   Ayush: Data Scientist
 -   Sravya: Data Scientist
 -   Jacky: Product Manager
