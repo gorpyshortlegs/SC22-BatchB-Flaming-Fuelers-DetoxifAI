@@ -32,7 +32,7 @@ DetoxifAI uses the [YoloV5](https://github.com/ultralytics/yolov5) computer visi
 To use DetoxifAI first clone this repo by running
 
 ```sh
-git clone https://github.com/zahtec/SC22-BatchB-Flaming-Fuelers-DetoxifAI.git
+git clone https://github.com/gorpyshortlegs/SC22-BatchB-Flaming-Fuelers-DetoxifAI.git
 ```
 
 Then change your terminal directory to the `SC22-BatchB-Flaming-Fuelers-DetoxifAI` folder and run (assuming you already have [Python](https://www.python.org/) installed)
